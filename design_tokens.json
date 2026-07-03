@@ -1,0 +1,70 @@
+{
+  "brand": {
+    "name": "SCAS",
+    "tagline": "Automated Scheduling for Philippine Schools"
+  },
+  "themes": {
+    "light": {
+      "primary": "#0038A8",
+      "primaryHover": "#002B82",
+      "accent": "#FFD700",
+      "background": "#f4f6f9",
+      "surface": "#ffffff",
+      "surfaceElevated": "#ffffff",
+      "border": "#e2e8f0",
+      "textPrimary": "#1a1a1a",
+      "textSecondary": "#475569",
+      "textMuted": "#64748b",
+      "warning": "#F59E0B",
+      "danger": "#EF4444",
+      "success": "#10b981",
+      "glassBorder": "rgba(255, 255, 255, 0.4)",
+      "glassShadow": "0 4px 30px rgba(0, 0, 0, 0.05)"
+    },
+    "dark": {
+      "primary": "#3B82F6",
+      "primaryHover": "#2563EB",
+      "accent": "#FBBF24",
+      "background": "#0F172A",
+      "surface": "#1E293B",
+      "surfaceElevated": "#334155",
+      "border": "#334155",
+      "textPrimary": "#F8FAFC",
+      "textSecondary": "#CBD5E1",
+      "textMuted": "#94A3B8",
+      "warning": "#F59E0B",
+      "danger": "#EF4444",
+      "success": "#10b981",
+      "glassBorder": "rgba(255, 255, 255, 0.05)",
+      "glassShadow": "0 4px 30px rgba(0, 0, 0, 0.3)"
+    }
+  },
+  "typography": {
+    "heading": "'Outfit', 'Poppins', sans-serif",
+    "body": "'Geist', 'Inter', sans-serif",
+    "mono": "'Geist Mono', 'JetBrains Mono', monospace"
+  },
+  "radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "full": "9999px"
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "32px",
+    "xxl": "48px"
+  },
+  "transitions": {
+    "default": "all 0.3s cubic-bezier(0.16, 1, 0.3, 1)",
+    "spring": "transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)"
+  },
+  "shadows": {
+    "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+    "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+    "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+  }
+}
